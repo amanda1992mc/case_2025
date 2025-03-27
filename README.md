@@ -23,11 +23,12 @@ Link das queries:
 3. https://console.cloud.google.com/bigquery?sq=703546743203:05de8b8fca044d2e9b63e31ca1027596
 4. https://console.cloud.google.com/bigquery?sq=703546743203:641954a8b8ef4ab49383fd736babb8be
 
+Agendamento no Appscript:
+https://script.google.com/d/1_wtqUM_2_nNg8CgOcZG3P1w42p71mztvBhCUwNHaNFvWiE9CBJWfh72p/edit?usp=sharing
+
 Dashboard no Looker:
 https://lookerstudio.google.com/s/r6cTqXE0zao
 
-Appscript:
-https://script.google.com/d/1_wtqUM_2_nNg8CgOcZG3P1w42p71mztvBhCUwNHaNFvWiE9CBJWfh72p/edit?usp=sharing
 
 
 
